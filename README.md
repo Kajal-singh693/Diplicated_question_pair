@@ -1,1 +1,1 @@
-# Diplicated_question_pair
+# Duplicated_question_pair
